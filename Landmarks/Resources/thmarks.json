@@ -1,0 +1,92 @@
+[
+	{
+		"id": 101,
+		"name": "Moriya Shrine",
+        "subname": "守矢神社 (Moriya Jinja)",
+		"category": "Shrines",
+		"imageName": "moriyashrine",
+        "wikiEntry": "Moriya_Shrine",
+		"description": "A Shinto shrine, originally from the Outside World, that was transported to Gensokyo by the god Kanako Yasaka during the start of the events of Mountain of Faith. It is now located somewhere near the top of Youkai Mountain beside a neighboring Divine Lake that was brought with it.\n\nThis shrine is home to the priestess Sanae Kochiya and its resident gods Kanako Yasaka and Suwako Moriya. Both the kappa and tengu have come to accept Kanako as a resident god and now live in peace. As the shrine gets few visitors, its primary source of income comes from selling bits of outside-world technology to the kappa."
+	},
+    {
+        "id": 102,
+        "name": "Hakurei Shrine",
+        "subname": "博麗神社 (Hakurei Jinja)",
+        "category": "Shrines",
+        "imageName": "hakureishrine",
+        "wikiEntry": "Hakurei_Shrine",
+        "description": "A small, run-down Shinto shrine located on the Great Hakurei Barrier on the east side of Gensokyo. It's a key location that has appeared in many of the official games' prologues, stages, in character endings and in other official literature by ZUN. It's the home of the Touhou Project's protagonist: Reimu Hakurei.\n\nThe shrine has become a popular hangout for all sorts of youkai who Reimu and company defeat in the course of the games. However, because of this, very few (normal) humans come to the shrine, and even fewer (if any at all) leave donations, but because it is a place where human faith gathers, Aunn Komano tends to guard the place without being asked.\n\nThe Hakurei Shrine was once the only shrine in Gensokyo, but the Moriya Shrine has since settled on the Youkai Mountain. Also adding to religious competition is the Myouren Temple and the Hall of Dreams' Great Mausoleum; the former is a Buddhist temple led by Byakuren Hijiri and the latter is held by Taoists run by Toyosatomimi no Miko‎.\n\nFrom Wild and Horned Hermit chapter 8, it's known that there is money scattered around the shrine. Although the ones found by Reimu may have been planted there by the Unnamed Kuda-gitsune. It's later seen that like all shrines, the Hakurei Shrine offers omamori. Although with the Hakurei Shrine's god in question, it's unknown if the omamori would even provide anyone with divine power."
+    },
+    {
+        "id": 103,
+        "name": "Myouren Shrine",
+        "subname": "命蓮寺 (Myourenji)",
+        "category": "Shrines",
+        "imageName": "myouren",
+        "wikiEntry": "Myouren_Temple",
+        "description": "Originally a ship capable of sailing through the sky, where it was landed directly on top of the Hall of Dreams' Great Mausoleum and renovated into a temple. In its original ship form, it was capable of traveling to Makai. The temple can still transform back into its ship form whenever Byakuren Hijiri chooses to."
+    },
+    {
+        "id": 104,
+        "name": "Bamboo Forest",
+        "subname": "迷いの竹林 (Mayoi no Chikurin) lit. \"The Bamboo Forest of the Lost\"",
+        "category": "Forest",
+        "imageName": "bambooforest",
+        "wikiEntry": "Bamboo_Forest_of_the_Lost",
+        "description": "Said to be located in the opposite direction to the Youkai Mountain when looking out from the Human Village. Legend has it that the forest was not originally a part of Gensokyo, but was washed over to Gensokyo by a big tsunami. Long long ago, the forest was known as Takakusa Commandery (高草郡 Takakusa Gun, literally \"Tall Grass Commandery\", an abolished administrative region in Inaba province in real life, now Tottori prefecture).[1] Inside of it lies the mansion Eientei.\n\nGiven the nature of the forest, it is very easy to get lost. There are no clearings, the ground is mostly flat & indistinguishable and the bamboos grow quickly resulting in a constant change of scenery.\n\nFujiwara no Mokou lives here assisting any people who get lost, while Tewi Inaba and other rabbits can be seen wandering in the forest."
+    },
+    {
+        "id": 105,
+        "name": "Hakugyokurou",
+        "subname": "白玉楼, lit. \"Tower of White Jade\"",
+        "category": "Mansion",
+        "imageName": "hakugyokurou",
+        "wikiEntry": "Hakugyokurou",
+        "description": "A ghost shrine overlooking the Netherworld. It is well known among the afterlife realms for its cherry blossom gardens, and many ghosts come to see them every spring.\n\nThe term Hakugyokurou comes from Chinese legends of the Tang Dynasty (唐朝). It was said to be the place where artists go after death. Li He (李賀), a poet from the Tang Dynasty, heard a voice in a dream he had as he was dying; the voice said, \"Hakugyokurou has been completely built, so come and write down its details.\" The story is the beginning of Hakugyokurou.\n\nYuyuko Saigyouji is the lady of Hakugyokurou, and Youmu Konpaku acts as its gardener. The massive youkai cherry tree, the Saigyou Ayakashi, can also be found lying dormant in the gardens of Hakugyokurou."
+    },
+    {
+        "id": 106,
+        "name": "Eientei",
+        "subname": "永遠亭 lit. \"House of Eternity\"",
+        "category": "Mansion",
+        "imageName": "eientei",
+        "wikiEntry": "Eientei",
+        "description": "Large, old-fashioned Japanese mansion hidden deep within the Bamboo Forest of the Lost. It has hallways that lead out into the far reaches of the sky. It was created by Eirin Yagokoro for Kaguya Houraisan."
+    },
+    {
+        "id": 107,
+        "name": "Palace of the Earth Spirits",
+        "subname": "地霊殿 (Chireiden)",
+        "category": "Mansion",
+        "imageName": "chireiden",
+        "wikiEntry": "Palace_of_the_Earth_Spirits",
+        "description": "The palace is a Western-style mansion with what appears to be many stained glass windows on a chequered floor. In the courtyard is a large hole that leads to the Hell of Blazing Fires below. It's said that the Palace was constructed after the Underworld was separated from Hell.\n\nSatori Komeiji took control of the Palace and managed it by herself with the help of her pets, keeping it relatively peaceful. Of her pets, Rin Kaenbyou's duty is to carry corpses to the Remains of Blazing Hell for the heating of Former Hell and Utsuho Reiuji is to maintain that heat. The other pets' duties were said to be tending the garden and playing with Satori's sister, Koishi Komeiji."
+    },
+    {
+        "id": 108,
+        "name": "Scarlet Devil Mansion",
+        "subname": "紅魔館 (Koumakan)",
+        "category": "Mansion",
+        "imageName": "koumakan",
+        "wikiEntry": "Scarlet_Devil_Mansion",
+        "description": "A European-style mansion owned by Remilia Scarlet. It is located on a ridge on the edge of the Misty Lake. From the outside, there are scarlet-colored windows, but there aren't many windows because of the nature of its vampire residents. There are plenty of rooms without windows at all, too. Through the dialogue of Touhou Hisoutensoku and multiple literary works, it can be said that the entrance to the mansion is usually not fully closed. There is a clock tower on the roof, but the bell on it only rings at night. The inside of the mansion is much larger than is apparent from the outside. This is due to Sakuya Izayoi's ability to manipulate time and space."
+    },
+    {
+        "id": 109,
+        "name": "Forest of Magic",
+        "subname": "魔法の森 (Mahou no Mori)",
+        "category": "Forest",
+        "imageName": "mahomori",
+        "wikiEntry": "Forest_of_Magic",
+        "description": "It's called the \"Forest of Magic\" because of the wide number of hallucinogenic mushrooms that grow here. Many magicians live in this forest for the sake of increasing their magical powers with these hallucinogenic mushrooms. The forest has areas of ground where the sun never shines, thus making them dark and damp for mushrooms to endlessly grow there.\n\nIt's a place whose true nature is clouded by strange rumours and weird happenstance. The forest's environment is extremely hazardous to both humans and youkai and both kinds typically also find the place uncomfortable. The spores of monstrous mushrooms dance about in mid-air and a normal human's health would worsen simply by breathing here, putting aside the human-eating plants and inevitable, horrible misfortune that will surely befall all who even think of trespassing into the forest. However, if one could stand the noxious gases that the monstrous mushrooms emit, then it would be both a safe and secretive place to seclude oneself, or a fairly nice place to live for people who don't like to be disturbed."
+    },
+    {
+        "id": 110,
+        "name": "Youkai Mountain",
+        "subname": "妖怪の山 (Youkai no Yama)",
+        "category": "Forest",
+        "imageName": "yokaiyama",
+        "wikiEntry": "Youkai_Mountain",
+        "description": "Gensokyo's largest mountain and volcano. As its name implies, it is inhabited almost exclusively by youkai, primarily kappa and tengu, and where humans are generally not welcome.\n\nInitially described in Perfect Memento in Strict Sense, it later became a key location in Mountain of Faith when the Moriya Shrine was transported near to the mountain's summit."
+    },
+]
